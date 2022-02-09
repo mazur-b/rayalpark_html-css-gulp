@@ -1,0 +1,25 @@
+{
+  "name": "rayalpark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20210502-FE/mazur_rayalpark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20210502-FE/mazur_rayalpark/issues"
+  },
+  "homepage": "https://github.com/20210502-FE/mazur_rayalpark#readme",
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "browser-sync": "2.26.14",
+    "gulp-sass": "4.1.0",
+    "gulp-autoprefixer": "8.0.0"
+  }
+}
